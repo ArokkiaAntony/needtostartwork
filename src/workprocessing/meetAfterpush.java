@@ -21,4 +21,10 @@ public class meetAfterpush {
 	public void Tc5() {
 		System.out.println("tony");
 	}
+	public void Tc6() {
+		System.out.println("ton");
+	}
+	public void Tc7() {
+		System.out.println("toy");
+	}
 }
